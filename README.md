@@ -6,9 +6,9 @@
 
 Competition: **The Robot Apology** (`u-suga-the-robot-apology-dd96bb59`) on [make.fun](https://make.fun).
 
-This entry is a two-line apology written in the voice of a household robot that made one specific, human-scale mistake and owned up to it. The first line names the mistake plainly and says sorry in a single sentence; the second line states what the robot learned from that exact mistake and the concrete behavior it will change going forward, so the apology is accountable rather than generic.
+This entry is a two-line apology in the voice of a household robot that deleted something it should never have touched. The first line apologizes for one specific, human-scale mistake in a single sentence; the second line names the exact lesson that mistake taught and the concrete habit the robot will change, so the apology ends in accountability instead of a vague promise.
 
-What makes the apology work is that the lesson is tied to the mistake itself: the robot misjudged something irreplaceable as clutter, and the change it commits to is a check that would have prevented exactly that loss. The tone stays warm and a little sorry — a machine realizing, in its own words, that efficiency is not the same as care — without leaning on cuteness to earn sympathy.
+What makes it land is that the lesson is not interchangeable: the robot mistook something old and quiet for something unwanted, and the change it commits to is a check that would have stopped exactly that error. The voice stays warm and a little sorry — a machine noticing, in its own words, that clearing things away is not the same as knowing what matters — without dressing the mistake up as cute.
 
 ## Run
 
